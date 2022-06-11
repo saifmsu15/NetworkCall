@@ -1,0 +1,2 @@
+rootProject.name = "NetworkCall"
+include ':app'
